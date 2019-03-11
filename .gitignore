@@ -1,3 +1,4 @@
+# Platformio
 .pio
 .pioenvs
 .piolibdeps
@@ -5,3 +6,6 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/settings.json
+
+# Ignore changes to platformio.ini
+platformio.ini
